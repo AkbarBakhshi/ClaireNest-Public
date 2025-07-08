@@ -1,4 +1,4 @@
-# ClaireNest - Family Calendar & Support App
+# ClaireNest - Family Support App
 
 ClaireNest is a mobile application built with Expo and React Native, designed to help families coordinate care and support for their children. The app provides a system that allows parents and supporters to stay organized and connected.
 
