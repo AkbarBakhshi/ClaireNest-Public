@@ -1,15 +1,13 @@
 # ClaireNest - Family Calendar & Support App
 
-ClaireNest is a mobile application built with Expo and React Native, designed to help families coordinate care and support for their children. The app provides a shared calendar system that allows parents and supporters to stay organized and connected.
+ClaireNest is a mobile application built with Expo and React Native, designed to help families coordinate care and support for their children. The app provides a system that allows parents and supporters to stay organized and connected.
 
 ## Features
 
-- Shared calendar system for family coordination
 - Support for multiple parent accounts
 - Role-based access (Parent/Supporter)
-- Account switching capability
 - Firebase backend integration
-- Secure authentication with Google Sign-In
+- Secure authentication with Google and Apple Sign-In
 
 ## Technical Stack
 
@@ -18,6 +16,7 @@ ClaireNest is a mobile application built with Expo and React Native, designed to
 - Firebase (Firestore, Storage, Functions)
 - Firebase App Check (with specific configuration for Google Sign-In)
 - Google Sign-In for authentication
+- Apple Sign-In for Authentication (only iOS)
 
 ## Getting Started
 
